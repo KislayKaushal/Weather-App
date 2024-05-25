@@ -12,7 +12,7 @@
   </ol>
 
 ## About The Project
-<img src="C:\Users\kisla\Downloads\weather-app-main\weather-app-main\images\Screenshot 2024-05-26 004300.png">
+<img src="https://github.com/KislayKaushal/Weather-App/blob/main/images/Screenshot%202024-05-26%20004300.png">
 A simple and responsive Weather web app built using HTML, CSS and Javascript. It uses <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch Temperature, Weather, Humidity & Wind Speed details. It uses <a href="https://opencagedata.com/api">OpenCageData Geocoder API</a> to fetch exact location coordinates of the user. Background images are fetched from <a href="https://source.unsplash.com">Unsplash</a> and is changed according to the City name. Built based on the 2021 UI trend 'Glassmorphism' <a href="https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9">(Read More...)</a>. 
 
 ### Built With
